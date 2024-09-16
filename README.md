@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://abdulganiyy.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-abdulganiyy.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/lasisi-balogun-opeoluwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lasisi%20balogun%20opeoluwa-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:devabdulganiyy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-devabdulganiyy@gmail.com-blue?style=flat-square&logo=gmail"></a>
